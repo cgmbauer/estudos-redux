@@ -40,7 +40,8 @@
       "import/prefer-default-export": "off",
       "camelcase": "off",
       "@typescript-eslint/ban-types": "off",
-      "no-use-before-define": "off"
+      "no-use-before-define": "off",
+      "react/prop-types": "off"
     },
     "settings": {
       "import/resolver": {
